@@ -1,0 +1,40 @@
+//featured skateboard decks
+- http://toymachine.com/skate/decks/toy-machine-leo-romero-arm-8-38.html
+  https://www.zumiez.com/toy-machine-romero-fos-arm-8-0-skateboard-deck.html
+- https://www.zumiez.com/krooked-gonzales-face-off-8-25-skateboard-deck.html
+- https://www.alienworkshop.com/collections/decks/products/sammy-montano-pro-debut?variant=31200761905209
+- https://www.zumiez.com/catalog/product/view/id/842535/s/deathwish-foy-gang-name-8-5-quot-skateboard-deck/category/2956/
+
+//featured clothes
+- https://thankyousupply.com/collections/clothing/products/alm-cat-tre-crew-yellow
+- https://www.skatewarehouse.com/Anti_Hero_x_Gnarhunters_Longsleeve_T-Shirt/descpage-AHGHLTS.html
+- https://www.skatewarehouse.com/Alltimers_Seafood_Fest_Hat/descpage-ATSFHT.html
+- https://www.skatewarehouse.com/Polar_Patch_Beanie/descpage-PLPTBN.html
+
+//featured shoes
+- https://www.converse.com/shop/p/neon-leather-chuck-taylor-all-star-unisex-hightopshoe/166567C.html?dwvar_166567C_color=volt%2Fvintage%20white&styleNo=166567C&cgid=mens-classic-chuck-shoes
+- https://www.converse.com/shop/p/one-star-cc-slip-unisex-shoe/165386C.html?dwvar_165386C_color=black%2Fwhite%2Fwhite&styleNo=165386C&cgid=mens-low-top-shoes
+- https://www.vans.com/shop/reflective-authentic-pro-tiger-black
+- https://www.vans.com/shop/sk8-hi-pro-mineral-red-true-white
+
+//accessories
+- https://www.zumiez.com/enjoi-wonder-rub-grip-tape-cleaner.html
+- https://www.zumiez.com/bones-stf-pro-reyes-eyeball-54mm-skateboard-wheels.html
+- https://bonesbearings.com/bonesr-super-redsr-skateboard-bearings-8-pack
+- https://www.skatewarehouse.com/Lucky_Phillips_Hardware/descpage-LUMH.html
+
+//possible categories to add
+-first time skating
+-chistmas gift guide
+- board builder
+
+//things to add to footer
+- social media icons for twitter, instagram, and youtube
+- about us
+- history
+- faq
+- mailing list sign up
+
+//misc
+- vans and skate warehouse send free stickers
+- section order: intro, featured products, new to skating, gift guide, skateboard builder
