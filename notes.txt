@@ -37,3 +37,6 @@
 //misc
 - vans and skate warehouse send free stickers
 - section order: intro, featured products, new to skating, gift guide, skateboard builder
+- make entire svg change colour in board builder instead of just the border
+- add price section in board builder that shows price of each component, total price of board, and checkout link
+- maybe add something to the blank space in section one
