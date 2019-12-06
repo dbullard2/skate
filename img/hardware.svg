@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="132px" height="237px" viewBox="0 0 132 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>hardware</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <circle id="path-5" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+        <circle id="path-9" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-9" fill="black"></use>
+        </mask>
+        <circle id="path-11" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-11" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-13"></path>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-13" fill="black"></use>
+        </mask>
+        <circle id="path-15" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-15" fill="black"></use>
+        </mask>
+        <circle id="path-17" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-17" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-19"></path>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-19" fill="black"></use>
+        </mask>
+        <circle id="path-21" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-21" fill="black"></use>
+        </mask>
+        <circle id="path-23" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-23" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-25"></path>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-25" fill="black"></use>
+        </mask>
+        <circle id="path-27" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-27" fill="black"></use>
+        </mask>
+        <circle id="path-29" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-29" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-31"></path>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-31" fill="black"></use>
+        </mask>
+        <circle id="path-33" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-33" fill="black"></use>
+        </mask>
+        <circle id="path-35" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-35" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-37"></path>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-37" fill="black"></use>
+        </mask>
+        <circle id="path-39" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-40" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-39" fill="black"></use>
+        </mask>
+        <circle id="path-41" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-42" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-41" fill="black"></use>
+        </mask>
+        <path d="M8.87846714,0.947216864 C10.6024421,-0.0480045086 13.4000378,-0.0465728695 15.1215329,0.947216864 L20.8784671,4.27059688 C22.6024421,5.26581825 24,7.68904052 24,9.67661998 L24,16.32338 C24,18.3138228 22.5999622,20.7356134 20.8784671,21.7294031 L15.1215329,25.0527831 C13.3975579,26.0480045 10.5999622,26.0465729 8.87846714,25.0527831 L3.12153286,21.7294031 C1.39755786,20.7341817 4.56762103e-15,18.3109595 3.46416413e-15,16.32338 L-2.25959147e-16,9.67661998 C-1.33100568e-15,7.68617724 1.40003783,5.26438661 3.12153286,4.27059688 L8.87846714,0.947216864 Z" id="path-43"></path>
+        <mask id="mask-44" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="28" height="29.5973248">
+            <rect x="-2" y="-1.7986624" width="28" height="29.5973248" fill="white"></rect>
+            <use xlink:href="#path-43" fill="black"></use>
+        </mask>
+        <circle id="path-45" cx="12" cy="13" r="10"></circle>
+        <mask id="mask-46" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="22" height="22">
+            <rect x="1" y="2" width="22" height="22" fill="white"></rect>
+            <use xlink:href="#path-45" fill="black"></use>
+        </mask>
+        <circle id="path-47" cx="12" cy="13" r="4"></circle>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="12">
+            <rect x="6" y="7" width="12" height="12" fill="white"></rect>
+            <use xlink:href="#path-47" fill="black"></use>
+        </mask>
+        <polygon id="path-49" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-50" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-49"></use>
+        </mask>
+        <rect id="path-51" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-52" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-51"></use>
+        </mask>
+        <polygon id="path-53" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-54" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-53"></use>
+        </mask>
+        <rect id="path-55" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-56" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-55"></use>
+        </mask>
+        <polygon id="path-57" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-58" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-57"></use>
+        </mask>
+        <rect id="path-59" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-60" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-59"></use>
+        </mask>
+        <polygon id="path-61" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-62" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-61"></use>
+        </mask>
+        <rect id="path-63" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-64" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-63"></use>
+        </mask>
+        <polygon id="path-65" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-66" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-65"></use>
+        </mask>
+        <rect id="path-67" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-68" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-67"></use>
+        </mask>
+        <polygon id="path-69" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-70" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-69"></use>
+        </mask>
+        <rect id="path-71" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-72" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-71"></use>
+        </mask>
+        <polygon id="path-73" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-74" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-73"></use>
+        </mask>
+        <rect id="path-75" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-76" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-75"></use>
+        </mask>
+        <polygon id="path-77" points="0 0 22 0 19.25 5 2.75 5"></polygon>
+        <mask id="mask-78" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="5" fill="white">
+            <use xlink:href="#path-77"></use>
+        </mask>
+        <rect id="path-79" x="6" y="29" width="10" height="46"></rect>
+        <mask id="mask-80" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="46" fill="white">
+            <use xlink:href="#path-79"></use>
+        </mask>
+    </defs>
+    <g id="Longboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Build-Complete-Copy-18" transform="translate(-827.000000, -819.000000)">
+            <g id="Components" transform="translate(115.000000, 301.000000)">
+                <g id="Hardware" transform="translate(675.000000, 440.000000)">
+                    <g id="hardware" transform="translate(37.000000, 78.000000)">
+                        <g id="Parts/Nuts" transform="translate(2.000000, 174.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                                <use id="Oval-23" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                                <use id="Oval-23" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(36.000000, 174.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-8)" stroke-width="4" xlink:href="#path-7"></use>
+                                <use id="Oval-23" mask="url(#mask-10)" stroke-width="2" xlink:href="#path-9"></use>
+                                <use id="Oval-23" mask="url(#mask-12)" stroke-width="4" xlink:href="#path-11"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(70.000000, 174.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-14)" stroke-width="4" xlink:href="#path-13"></use>
+                                <use id="Oval-23" mask="url(#mask-16)" stroke-width="2" xlink:href="#path-15"></use>
+                                <use id="Oval-23" mask="url(#mask-18)" stroke-width="4" xlink:href="#path-17"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(104.000000, 174.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-20)" stroke-width="4" xlink:href="#path-19"></use>
+                                <use id="Oval-23" mask="url(#mask-22)" stroke-width="2" xlink:href="#path-21"></use>
+                                <use id="Oval-23" mask="url(#mask-24)" stroke-width="4" xlink:href="#path-23"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(4.000000, 209.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-26)" stroke-width="4" xlink:href="#path-25"></use>
+                                <use id="Oval-23" mask="url(#mask-28)" stroke-width="2" xlink:href="#path-27"></use>
+                                <use id="Oval-23" mask="url(#mask-30)" stroke-width="4" xlink:href="#path-29"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(38.000000, 209.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-32)" stroke-width="4" xlink:href="#path-31"></use>
+                                <use id="Oval-23" mask="url(#mask-34)" stroke-width="2" xlink:href="#path-33"></use>
+                                <use id="Oval-23" mask="url(#mask-36)" stroke-width="4" xlink:href="#path-35"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(72.000000, 209.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-38)" stroke-width="4" xlink:href="#path-37"></use>
+                                <use id="Oval-23" mask="url(#mask-40)" stroke-width="2" xlink:href="#path-39"></use>
+                                <use id="Oval-23" mask="url(#mask-42)" stroke-width="4" xlink:href="#path-41"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Nuts" transform="translate(106.000000, 209.000000)" stroke="#000000">
+                            <g>
+                                <use id="Polygon-1" mask="url(#mask-44)" stroke-width="4" xlink:href="#path-43"></use>
+                                <use id="Oval-23" mask="url(#mask-46)" stroke-width="2" xlink:href="#path-45"></use>
+                                <use id="Oval-23" mask="url(#mask-48)" stroke-width="4" xlink:href="#path-47"></use>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(10.000000, 0.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-50)" stroke-width="4" xlink:href="#path-49"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-52)" stroke-width="4" xlink:href="#path-51"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(40.000000, 0.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-54)" stroke-width="4" xlink:href="#path-53"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-56)" stroke-width="4" xlink:href="#path-55"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(70.000000, 0.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-58)" stroke-width="4" xlink:href="#path-57"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-60)" stroke-width="4" xlink:href="#path-59"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(100.000000, 0.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-62)" stroke-width="4" xlink:href="#path-61"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-64)" stroke-width="4" xlink:href="#path-63"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(10.000000, 81.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-66)" stroke-width="4" xlink:href="#path-65"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-68)" stroke-width="4" xlink:href="#path-67"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(40.000000, 81.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-70)" stroke-width="4" xlink:href="#path-69"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-72)" stroke-width="4" xlink:href="#path-71"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(70.000000, 81.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-74)" stroke-width="4" xlink:href="#path-73"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-76)" stroke-width="4" xlink:href="#path-75"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="Parts/Bolt" transform="translate(100.000000, 81.000000)">
+                            <g>
+                                <path d="M7,24.5568182 L7,24.5568182 L6.94791024,24.1033364 L8.44791024,30.5465183 L6.5,29 L15.5,29 L13.5533482,30.5411464 L15.0533482,24.17751 L15,24.6363636 L15,3 L17,5 L5,5 L7,3 L7,24.5568182 Z M5,24.5568182 L5,3 L17,3 L17,24.6363636 L15.5,31 L6.5,31 L5,24.5568182 L5,24.5568182 Z" id="Rectangle-53" fill="#000000"></path>
+                                <polygon id="Line" fill="#000000" points="6 25 16 25 17 25 17 23 16 23 6 23 5 23 5 25"></polygon>
+                                <use id="Rectangle-54" stroke="#000000" mask="url(#mask-78)" stroke-width="4" xlink:href="#path-77"></use>
+                                <use id="Rectangle-55" stroke="#000000" mask="url(#mask-80)" stroke-width="4" xlink:href="#path-79"></use>
+                                <path d="M6,33 L16,33 L16.5,33 L16.5,32 L16,32 L6,32 L5.5,32 L5.5,33 L6,33 Z M6,35 L16,35 L16.5,35 L16.5,34 L16,34 L6,34 L5.5,34 L5.5,35 L6,35 Z M6,37 L16,37 L16.5,37 L16.5,36 L16,36 L6,36 L5.5,36 L5.5,37 L6,37 Z M6,39 L16,39 L16.5,39 L16.5,38 L16,38 L6,38 L5.5,38 L5.5,39 L6,39 Z M6,41 L16,41 L16.5,41 L16.5,40 L16,40 L6,40 L5.5,40 L5.5,41 L6,41 Z M6,43 L16,43 L16.5,43 L16.5,42 L16,42 L6,42 L5.5,42 L5.5,43 L6,43 Z M6,45 L16,45 L16.5,45 L16.5,44 L16,44 L6,44 L5.5,44 L5.5,45 L6,45 Z M6,47 L16,47 L16.5,47 L16.5,46 L16,46 L6,46 L5.5,46 L5.5,47 L6,47 Z M6,49 L16,49 L16.5,49 L16.5,48 L16,48 L6,48 L5.5,48 L5.5,49 L6,49 Z M6,51 L16,51 L16.5,51 L16.5,50 L16,50 L6,50 L5.5,50 L5.5,51 L6,51 Z M6,53 L16,53 L16.5,53 L16.5,52 L16,52 L6,52 L5.5,52 L5.5,53 L6,53 Z M6,55 L16,55 L16.5,55 L16.5,54 L16,54 L6,54 L5.5,54 L5.5,55 L6,55 Z M6,57 L16,57 L16.5,57 L16.5,56 L16,56 L6,56 L5.5,56 L5.5,57 L6,57 Z M6,59 L16,59 L16.5,59 L16.5,58 L16,58 L6,58 L5.5,58 L5.5,59 L6,59 Z M6,61 L16,61 L16.5,61 L16.5,60 L16,60 L6,60 L5.5,60 L5.5,61 L6,61 Z M6,63 L16,63 L16.5,63 L16.5,62 L16,62 L6,62 L5.5,62 L5.5,63 L6,63 Z M6,65 L16,65 L16.5,65 L16.5,64 L16,64 L6,64 L5.5,64 L5.5,65 L6,65 Z M6,67 L16,67 L16.5,67 L16.5,66 L16,66 L6,66 L5.5,66 L5.5,67 L6,67 Z M6,69 L16,69 L16.5,69 L16.5,68 L16,68 L6,68 L5.5,68 L5.5,69 L6,69 Z M6,71 L16,71 L16.5,71 L16.5,70 L16,70 L6,70 L5.5,70 L5.5,71 L6,71 Z M6,73 L16,73 L16.5,73 L16.5,72 L16,72 L6,72 L5.5,72 L5.5,73 L6,73 Z" id="Combined-Shape" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

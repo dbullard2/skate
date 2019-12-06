@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Nunito:400,700");
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+body, html {
+  height: 100%; }
+
 @font-face {
   font-family: 'logo';
   src: url(../certto-headline.regular.otf); }
@@ -38,11 +42,14 @@
   background-color: #f2ff89;
   color: #000; }
 
-.section-four h1 {
-  font-family: 'christmas'; }
+.footer i {
+  font-size: 2rem; }
+
+.section-four {
+  background-color: black; }
 
 .section-four span {
-  color: white;
+  color: transparent;
   -webkit-text-stroke: 2px red;
   margin: 0;
   padding: 0;
@@ -50,6 +57,56 @@
 
 .section-four span > span {
   -webkit-text-stroke: 2px green; }
+
+.section-four a {
+  text-decoration: underline;
+  color: #fff; }
+
+.section-four p {
+  color: #fff; }
+
+.section-four p:hover {
+  color: green; }
+
+.sky {
+  height: 100%;
+  color: #FFF;
+  display: block; }
+
+.footer-social {
+  height: 100%; }
+
+.footer-left {
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  height: 53.8%;
+  border-right: 2px solid black; }
+
+.footer-left li:hover {
+  color: #6cc0ff; }
+
+.footer-right {
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  height: 53.8%;
+  padding-bottom: 5%; }
+
+.footer-right li:hover {
+  color: #6cc0ff; }
+
+.twitter:hover {
+  color: #6cc0ff; }
+
+.youtube:hover {
+  color: #ff6c6c; }
+
+.reddit:hover {
+  color: #ffb36c; }
+
+.instagram:hover {
+  color: #d6249f; }
 
 @keyframes spinAround {
   from {
@@ -265,7 +322,7 @@ code {
   padding: 0.25em 0.5em 0.25em; }
 
 hr {
-  background-color: whitesmoke;
+  background-color: black;
   border: none;
   display: block;
   height: 2px;

@@ -30,9 +30,8 @@
 
 //things to add to footer
 - social media icons for twitter, instagram, and youtube
-- about us
-- history
-- faq
+- company: about us, history, the team
+- support: faq, shoe size chart, tricks & shit (a section outlining some tricks and how to do them)
 - mailing list sign up
 
 //misc
