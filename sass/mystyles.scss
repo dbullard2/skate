@@ -1,35 +1,7 @@
 @charset "utf-8";
 
-// Import a Google Font
+//fonts ########################################################################################################################################################
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
-
-// Set your brand colors
-$purple: #8A4D76;
-$pink: #FA7C91;
-$brown: #757763;
-$beige-light: #D0D1CD;
-$beige-lighter: #EFF0EB;
-$white: #fff;
-
-// Update Bulma's global variables
-$family-sans-serif: "Nunito", sans-serif;
-$grey-dark: $brown;
-$grey-light: $beige-light;
-$widescreen-enabled: false;
-$fullhd-enabled: false;
-
-// Update some of Bulma's component variables
-$control-border-width: 2px;
-$input-border-color: transparent;
-$input-shadow: none;
-$subtitle-color: black;
-$hr-background-color: black;
-//custom css
-
-body, html {
-  height: 100%;
-  
-}
 
 @font-face{
     font-family: 'logo';
@@ -40,28 +12,71 @@ body, html {
     font-family: 'christmas';
     src: url(../WindsorC.ttf);
 }
-.section-one{
+
+//bulma variables ##############################################################################################################################################
+
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+
+// Update some of Bulma's component variables
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+$subtitle-color: black;
+$hr-background-color: black;
+
+//universal ####################################################################################################################################################
+
+body, html {
+  height: 100%;
+  
+}
+
+.footer a{
+    color: black;
+}
+
+//home page ----------------------------------------------------------------------------------------------------------------------------------------------------
+
+//section one ##################################################################################################################################################
+#home .section-one{
     background-image: url('../img/travis-yewell-43ScFMWx2xY-unsplash.jpg');
     background-size: cover;
 }
 
-.navbar a{
+#home .navbar a{
     color: white;
     margin-right: 1rem;
     font-size: 1.2rem;
 }
 
-.section-two td{
+#home .navbar a:hover{
+    color: black;
+    margin-right: 1rem;
+    font-size: 1.2rem;
+}
+
+//section two ##################################################################################################################################################
+#home .section-two td{
     color: black;
     text-align: center !important;
     width: 25%;
 }
 
-.section-two img{
+#home .section-two img{
     width: 50%;
 }
 
-.section-three{
+#home .section-two button {
+    display: none;
+}
+
+#home img:hover + .button, .button:hover {
+    display: inline-block;
+}
+
+//section three ################################################################################################################################################
+#home .section-three{
     background-image: url('../img/photo-1500347948006-78a384d250f8.jpg');
     background-size: cover;
     color: #000;
@@ -69,9 +84,131 @@ body, html {
     justify-content: center !important; 
 }
 
-.section-three a{
+#home .section-three a{
     color: #2b387f;
 }
+
+//section four #################################################################################################################################################
+#home .section-four{
+    background-color: black;
+}
+
+#home .section-four span{
+    color: transparent;
+    -webkit-text-stroke: 2px red;
+    margin: 0;
+    padding: 0;
+    font-family: 'christmas';
+}
+
+#home .section-four span > span{
+    -webkit-text-stroke: 2px green;
+}
+
+#home .section-four a{
+    text-decoration: underline;
+    color: #fff;
+}
+
+#home .section-four p{
+    color: #fff
+}
+
+#home .sky {
+  height: 100%;
+  color: #FFF;
+  display: block;
+}
+
+//section five / board builder #################################################################################################################################
+#home .section-five h1{
+    color: black;
+}
+
+#home .builder{
+    width: 90%;
+    height: 100vh;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#home .builder hr{
+    height: 1.5px;
+    border: none;
+}
+
+#home .builder-item-top{
+    width: 20%;
+    height: 95%;
+    text-align: center;
+    float: left;
+    margin-left: 10%;
+    margin-top: 1%;
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
+
+#home .builder-item-bottom{
+    width: 20%;
+    height: 95%;
+    text-align: center;
+    float: left;
+    margin-left: 5%;
+    margin-top: 1%;
+    border: 1.5px solid black;
+    border-radius: 5px;
+}
+
+#home .top{
+    width: 100%;
+    height: 50%;
+}
+
+#home .bottom{
+    width: 100%;
+    height: 50%;
+}
+
+#home .x{
+    background-color: red;
+    height: 10%;
+    padding: 1% 1%;
+}
+
+#home .builder-text{
+    margin-top: -5%;
+}
+
+#home .one:hover{
+    border: 5px solid #ff6c6c;
+}
+
+#home .two:hover{
+    border: 5px solid #ffad6c;
+}
+
+#home .three:hover{
+    border: 5px solid #ffff6c;
+}
+
+#home .four:hover{
+    border: 5px solid #6cff7e;
+}
+
+#home .five:hover{
+    border: 5px solid #6cffff;
+}
+
+#home .six:hover{
+    border: 5px solid #e76cff;
+}
+
+#home .seven:hover{
+    border: 5px solid #966cff;
+}
+
+//footer #######################################################################################################################################################
 
 .footer{
     background-color: #f2ff89;
@@ -80,40 +217,6 @@ body, html {
 
 .footer i{
     font-size: 2rem;
-}
-
-.section-four{
-    background-color: black;
-}
-.section-four span{
-    color: transparent;
-    -webkit-text-stroke: 2px red;
-    margin: 0;
-    padding: 0;
-    font-family: 'christmas';
-    
-}
-
-.section-four span > span{
-    -webkit-text-stroke: 2px green;
-}
-
-.section-four a{
-    text-decoration: underline;
-    color: #fff;
-}
-
-.section-four p{
-    color: #fff
-}
-.section-four p:hover{
-    color: green
-}
-
-.sky {
-  height: 100%;
-  color: #FFF;
-  display: block;
 }
 
 .footer-social{
@@ -160,94 +263,146 @@ body, html {
   color: #d6249f;
 }
 
-.section-five h1{
+//shoes --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+.navbar a{
     color: black;
+    margin-right: 1rem;
+    font-size: 1.2rem;
 }
 
-.builder{
-    width: 90%;
-    height: 100vh;
+.menu-label{
+    color: black;
+    font-size: 1.5em;
+    margin-left: 1%;
+}
+
+.menu-list li{
+    color: black;
+    font-size: 1.2em;
+    margin-left: 1%;
+    list-style-type: none;
+}
+
+.menu{
+    width: 8%;
+    float: left;
+}
+
+#shoes td{
+    color: black;
+    text-align: center !important;
+    width: 23%;
+}
+
+#shoes td:hover{
+    background-color: #f5f5f5;
+}
+
+#shoes img{
+    width: 50%;
+}
+
+#shoes .section-one{
+    background-image: url('../img/szilvia-basso-eWZw9p000MM-unsplash_2.jpg');
+    background-size: cover;
+}
+
+#shoes .navbar a{
+    color: white;
+    margin-right: 1rem;
+    font-size: 1.2rem;
+}
+
+#shoes .shoes{
+    color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7rem !important;
+  font-family: 'logo';
+}
+
+//team #########################################################################################################################################################
+
+#team .section-one{
+    background-image: url('../img/szilvia-basso-eWZw9p000MM-unsplash_2.jpg');
+    background-size: cover;
+}
+
+#team .team{
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7rem !important;
+  font-family: 'logo';
+}
+
+#team img{
+    vertical-align: top;
+}
+
+#team td{
+    color: black;
+    text-align: center !important;
+    width: 20%;
+}
+
+#faq .section-one{
+    background-image: url('../img/adrian-naranjo--92yZcrvgVY-unsplash.jpg');
+    background-size: cover;
+}
+
+#faq .team{
+  color: #8e89ff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7rem !important;
+  font-family: 'logo';
+}
+
+.red{
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.wrapper{
+    margin-bottom: 1rem;
+}
+
+.small-div{
+    width: 50%;
+    height: 3rem;
+    border-bottom: 1.8px solid gray;
     margin: 0 auto;
-    border: 2px solid black;
-    border-radius: 5px;
+    overflow: hidden;
 }
 
-.builder hr{
-    height: 1.5px;
-    border: none;
+.small-div p, .big-div p{
+    max-width: 100%;
 }
 
-.builder-item-top{
-    width: 20%;
-    height: 95%;
-    text-align: center;
-    float: left;
-    margin-left: 10%;
-    margin-top: 1%;
-    border: 1.5px solid black;
-    border-radius: 5px;
+.small-div:hover, .big-div:hover{
+    cursor: pointer;
 }
 
-.builder-item-bottom{
-    width: 20%;
-    height: 95%;
-    text-align: center;
-    float: left;
-    margin-left: 5%;
-    margin-top: 1%;
-    border: 1.5px solid black;
-    border-radius: 5px;
+.big-div{
+    width: 50%;
+    border-bottom: 1.8px solid gray;
+    margin: 0 auto;
+    height: auto;
 }
 
-.top{
-    width: 100%;
-    height: 50%;
+.faq-text{
+    text-align: left;
 }
 
-.bottom{
-    width: 100%;
-    height: 50%;
-}
-
-.x{
-    background-color: red;
-    height: 10%;
-    padding: 1% 1%;
-}
-
-.builder-text{
-    margin-top: -5%;
-}
-
-.one:hover{
-    border: 5px solid #ff6c6c;
-}
-
-.two:hover{
-    border: 5px solid #ffad6c;
-}
-
-.three:hover{
-    border: 5px solid #ffff6c;
-}
-
-.four:hover{
-    border: 5px solid #6cff7e;
-}
-
-.five:hover{
-    border: 5px solid #6cffff;
-}
-
-.six:hover{
-    border: 5px solid #e76cff;
-}
-
-.seven:hover{
-    border: 5px solid #966cff;
-}
-
-// Import only what you need from Bulma
+//bulma modules ################################################################################################################################################
 @import "../node_modules/bulma/sass/utilities/_all.sass";
 @import "../node_modules/bulma/sass/base/_all.sass";
 @import "../node_modules/bulma/sass/elements/button.sass";

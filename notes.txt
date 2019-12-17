@@ -17,7 +17,7 @@
 - https://www.vans.com/shop/reflective-authentic-pro-tiger-black
 - https://www.vans.com/shop/sk8-hi-pro-mineral-red-true-white
 
-//accessories
+//featured accessories
 - https://www.zumiez.com/enjoi-wonder-rub-grip-tape-cleaner.html
 - https://www.zumiez.com/bones-stf-pro-reyes-eyeball-54mm-skateboard-wheels.html
 - https://bonesbearings.com/bonesr-super-redsr-skateboard-bearings-8-pack
@@ -40,3 +40,21 @@
 - make entire svg change colour in board builder instead of just the border
 - add price section in board builder that shows price of each component, total price of board, and checkout link
 - maybe add something to the blank space in section one
+- organise css by page
+- add colour changes to shoes
+- on shoe page, move the side menu to the right a bit
+- on the specific product page, not the broader ones like shoes etc, use the actual pictures from the site instead
+  of using remove.bg
+- make sure all footer links work on all pages
+- finish the team page
+- clean up css
+- animate expansion of questions for faq
+
+//feedback
+- more whitespace (on mobile i think)
+
+//all shoes
+- https://www.converse.com/shop/p/neon-leather-chuck-taylor-all-star-unisex-hightopshoe/166567C.html?dwvar_166567C_color=volt%2Fvintage%20white&styleNo=166567C&cgid=mens-classic-chuck-shoes
+- https://www.converse.com/shop/p/one-star-cc-slip-unisex-shoe/165386C.html?dwvar_165386C_color=black%2Fwhite%2Fwhite&styleNo=165386C&cgid=mens-low-top-shoes
+- https://www.vans.com/shop/reflective-authentic-pro-tiger-black
+- https://www.vans.com/shop/sk8-hi-pro-mineral-red-true-white
