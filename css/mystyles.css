@@ -273,34 +273,144 @@ body, html {
   font-size: 7rem !important;
   font-family: 'logo'; }
 
-.red {
+.wrapper {
+  margin-bottom: 1rem !important;
   font-size: 1.3rem;
+  text-align: center;
+  border-bottom: 1.8px solid gray;
+  width: 50%;
+  height: 4rem;
+  vertical-align: top;
+  margin: 0 auto; }
+
+.wrapper a {
+  color: #3273dc; }
+
+.expandable-content {
+  text-align: left; }
+
+.expandable.hidden .expandable-content {
+  display: none; }
+
+.expandable-trigger {
+  cursor: pointer;
+  user-select: none; }
+
+#pay .section-one {
+  height: 5rem; }
+
+#pay form {
+  margin-top: 3% !important;
+  background-color: white;
+  height: 80vh;
+  width: 35%;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4); }
+
+.card-front {
+  width: 25%;
+  height: 30vh;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -3%;
+  left: 0;
+  right: 0;
+  background-image: url("../img/card/jfl-GfmIT_pseDQ-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  box-shadow: 0 20px 60px 0 rgba(14, 42, 90, 0.55); }
+
+.card-cover {
+  background-color: #1c1d27;
+  opacity: 0.6;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  position: absolute;
+  z-index: 100 !important; }
+
+.card-top {
+  margin-top: 2.5vh;
+  width: 100%;
+  height: 6vh;
+  z-index: 200 !important;
+  position: absolute; }
+
+.card-top img {
+  max-height: 100%;
+  margin-right: 5%; }
+
+.card-number {
+  margin-top: 25%;
+  width: 100%;
+  height: 4.8vh;
+  z-index: 200 !important;
+  position: absolute;
   text-align: center; }
 
-.wrapper {
-  margin-bottom: 1rem; }
+.card-number p, .card-bottom p {
+  color: #fff;
+  display: inline-block;
+  font-size: 1.8rem; }
 
-.small-div {
-  width: 50%;
+.card-bottom {
+  margin-top: 25%;
+  width: 100%;
+  height: 4.8vh;
+  z-index: 200 !important;
+  position: absolute;
+  text-align: center;
+  background-color: red; }
+
+.form-content {
+  padding-top: 25vh;
+  padding-left: 5%;
+  font-size: 1.5rem; }
+
+input[type="text"] {
+  font-size: 1.5rem;
+  width: 95%;
   height: 3rem;
-  border-bottom: 1.8px solid gray;
-  margin: 0 auto;
-  overflow: hidden; }
+  margin-bottom: 2vh; }
 
-.small-div p, .big-div p {
-  max-width: 100%; }
+#pay select {
+  background-color: transparent;
+  border: 1.34px solid #dae0e8;
+  font-size: 1.5rem;
+  width: 30%;
+  border-radius: 5px;
+  float: left;
+  margin-right: 5%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url("../img/card/down_arrow.png");
+  background-size: 1vw;
+  background-repeat: no-repeat;
+  background-position: 90% center;
+  height: 3rem; }
 
-.small-div:hover, .big-div:hover {
-  cursor: pointer; }
+#pay select:hover, #pay input[type="text"]:hover {
+  border-color: black; }
 
-.big-div {
-  width: 50%;
-  border-bottom: 1.8px solid gray;
-  margin: 0 auto;
-  height: auto; }
+.cvv {
+  width: 25%;
+  float: right;
+  margin-right: 2%; }
 
-.faq-text {
-  text-align: left; }
+#pay button {
+  box-shadow: 3px 10px 20px 0px rgba(35, 100, 210, 0.3);
+  border: none;
+  width: 95%;
+  margin-top: 2vh;
+  background-color: #fcccff;
+  color: white;
+  height: 5vw;
+  border-radius: 5px;
+  font-size: 2.5rem; }
 
 @keyframes spinAround {
   from {
