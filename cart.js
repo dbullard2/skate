@@ -40,6 +40,6 @@ function addToCart(){
     if(product == 'romero-fos-arm'){
         cart.push('<div class="cart-item" id="romero-fos-arm"> <img src="products/decks/img/wsfe.jpg" alt="" class="product-img"> <p class="has-text-weight-bold product-name bold-center">Toy Machine Romero FOS Arm Deck</p> <p class="price smoll-center">$53.00</p> <p class="total bold-center has-text-weight-bold product-name">$53.00</p> <span id="test" class="remove">X</span></div>');
     }
-    localStorage.localCart = JSON.stringify(cart, replacer);
+    localStorage.localCart = JSON.stringify(cart);
     //cartt = JSON.parse(localStorage.localCart);
 }
