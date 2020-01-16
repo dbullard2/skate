@@ -4,12 +4,15 @@
 - https://www.zumiez.com/krooked-gonzales-face-off-8-25-skateboard-deck.html
 - https://www.alienworkshop.com/collections/decks/products/sammy-montano-pro-debut?variant=31200761905209
 - https://www.zumiez.com/catalog/product/view/id/842535/s/deathwish-foy-gang-name-8-5-quot-skateboard-deck/category/2956/
+- https://thankyousupply.com/collections/decks/products/alm-out-there-impact-light-yuri-facchini
 
 //featured clothes
 - https://thankyousupply.com/collections/clothing/products/alm-cat-tre-crew-yellow
 - https://www.skatewarehouse.com/Anti_Hero_x_Gnarhunters_Longsleeve_T-Shirt/descpage-AHGHLTS.html
 - https://www.skatewarehouse.com/Alltimers_Seafood_Fest_Hat/descpage-ATSFHT.html
 - https://www.skatewarehouse.com/Polar_Patch_Beanie/descpage-PLPTBN.html
+- https://www.slfdscpln.com/product/exploring-emotions-we-used-to-talk-about-the-future
+
 
 //featured shoes
 - https://www.converse.com/shop/p/neon-leather-chuck-taylor-all-star-unisex-hightopshoe/166567C.html?dwvar_166567C_color=volt%2Fvintage%20white&styleNo=166567C&cgid=mens-classic-chuck-shoes
@@ -24,28 +27,29 @@
 - https://www.skatewarehouse.com/Lucky_Phillips_Hardware/descpage-LUMH.html
 
 //possible categories to add
--first time skating
--chistmas gift guide
-- board builder
+x first time skating
+x chistmas gift guide
+x board builder
 
 //things to add to footer
 x social media icons for twitter, instagram, and youtube
 x company: about us, history, the team
-- support: faq, shoe size chart, tricks & shit (a section outlining some tricks and how to do them)
+x support: faq, shoe size chart, tricks & shit (a section outlining some tricks and how to do them)
 
 //misc
-- vans and skate warehouse send free stickers
-- section order: intro, featured products, new to skating, gift guide, skateboard builder
-- make entire svg change colour in board builder instead of just the border
+- board guide reference - https://www.warehouseskateboards.com/help/Skateboards-Getting-Started
+x vans and skate warehouse send free stickers
+x section order: intro, featured products, new to skating, gift guide, skateboard builder
+x make entire svg change colour in board builder instead of just the border
 - add price section in board builder that shows price of each component, total price of board, and checkout link
-- maybe add something to the blank space in section one
-- organise css by page
-- add colour changes to shoes
-- on shoe page, move the side menu to the right a bit
+x maybe add something to the blank space in section one
+x organise css by page
+- add colour options to shoes
+x on shoe page, move the side menu to the right a bit
 - on the specific product page, not the broader ones like shoes etc, use the actual pictures from the site instead
   of using remove.bg
-- make sure all footer links work on all pages
-- finish the team page (add vanessa from deadpool)
+x make sure all footer links work on all pages
+- finish the team page
 - clean up css
 - animate expansion of questions for faq
 - replace uncompressed images with compressed ones
@@ -55,6 +59,20 @@ x company: about us, history, the team
 - faq get smaller once you collapse them again. fix that
 - add spacing / dashes between the four card numbers in the input box
 - change input border colours to #dae0e8 on credit card page when figure out why not even on all sides
+- pay loks like shit on mobile. fix it
+- look at replacing Steady Hands Pastel Socks
+- have compressed accessories folder, shoes folder and josh-hild-igLQW_yY9oo-unsplash_2, card, clothing, decks
+- change banner image for team page
+- for element in array that is not empty, change that with the number the user enters
+- fix pay card so that when you delete, it doesn't move up to the next #
+- move the paragraphs for the board guide so they aren't touching the sides of the screen
+- finish board guide
+x remove 25-50 price category from shoes
+x pages w/ updated nav: index.html, blank_page, board-guide, clothing, decks, faq, pay, shoes, team
+- remove shoe size chart from footer
+- purchase order: check out button is clicked from cart page, choose delivery speed options (standard or overnight), next page the user
+  enters their first name, last name, address (optional apt # / suite / building), zip code, city, state, email, and phone number;
+  next is pay.html but add billing address, then review your order, then purchase
 
 //feedback
 - more whitespace (on mobile i think)
@@ -64,3 +82,13 @@ x company: about us, history, the team
 - https://www.converse.com/shop/p/one-star-cc-slip-unisex-shoe/165386C.html?dwvar_165386C_color=black%2Fwhite%2Fwhite&styleNo=165386C&cgid=mens-low-top-shoes
 - https://www.vans.com/shop/reflective-authentic-pro-tiger-black
 - https://www.vans.com/shop/sk8-hi-pro-mineral-red-true-white
+
+//payment #########################################################################################
+
+x user clicks add to cart
+x added to cart text appears beneath "add to cart" button
+x red circle appears next to shopping cart if it's empty
+x if cart isn't empty the number in the red circle gets updated
+- item is added to the shopping cart array
+- when the cart page is loaded, all of the items in the cart array are displayed on the shopping
+  cart list

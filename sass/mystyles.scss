@@ -287,6 +287,7 @@ body, html {
 .menu{
     width: 8%;
     float: left;
+    margin-left: 1vw;
 }
 
 #shoes td{
@@ -350,6 +351,8 @@ body, html {
     text-align: center !important;
     width: 20%;
 }
+
+//faq ##########################################################################################################################################################
 
 #faq .section-one{
     background-image: url('../img/adrian-naranjo--92yZcrvgVY-unsplash.jpg');
@@ -419,7 +422,6 @@ body, html {
     margin-top: -3%;
     left: 0;
     right: 0;
-    background-image: url('../img/card/jfl-GfmIT_pseDQ-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
@@ -458,10 +460,10 @@ body, html {
     text-align: center;
 }
 
-.card-number p, .card-bottom p{
+.card-digit{
     color: #fff;
     display: inline-block;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
 }
 
 .card-bottom{
@@ -470,8 +472,32 @@ body, html {
     height: 4.8vh;
     z-index: 200 !important;
     position: absolute;
-    text-align: center;
-    background-color: red;
+    bottom: 0;
+    margin-bottom: 7%;
+}
+
+.card-content{
+    font-size: 1.3rem;
+    display: inline-block;
+    color: #fff;
+}
+
+.card-heading{
+    font-size: 1rem;
+    display: inline-block;
+    color: #fff;
+    opacity: 0.7;
+}
+
+.card-bottom-left{
+    width: 46.5%;
+    margin-left: 7%;
+    float: left;
+}
+
+.card-bottom-right{
+    width: 46.5%;
+    float: left;
 }
 
 .form-content{
@@ -526,6 +552,261 @@ input[type="text"]
     height: 5vw;
     border-radius: 5px;
     font-size: 2.5rem;
+}
+
+//clothing #####################################################################################################################################################
+
+#clothing .clothing{
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7rem !important;
+  font-family: 'logo';
+}
+
+#clothing .section-one{
+    background-image: url('../img/josh-hild-igLQW_yY9oo-unsplash_2.png');
+    background-size: cover;
+}
+
+#clothing td{
+    color: black;
+    text-align: center !important;
+    width: 23%;
+}
+
+#clothing td:hover{
+    background-color: #f5f5f5;
+}
+
+#clothing img{
+    width: 50%;
+}
+
+#clothing li{
+    word-wrap: break-word;
+}
+
+//board guide ##################################################################################################################################################
+
+#guide .section-one{
+    background-image: url('../img/jhonatan-saavedra-perales-oeEz7p1jcVo-unsplash_2.jpg');
+    background-size: cover;
+}
+
+#guide .team{
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7rem !important;
+  font-family: 'logo';
+}
+
+#guide .section-two{
+    font-size: 1vw;
+}
+
+.break{
+    height: 2vw;
+}
+
+mark{
+    background-color: #f2ff89;
+}
+
+//products #####################################################################################################################################################
+
+.container{
+    display: flex;
+}
+
+.product-container{
+    width: 65vw;
+    position: relative;
+    margin-right: 1vw;
+}
+
+.thumbnails{
+    width: 100px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.product-container p{
+    font-size: 18px;
+}
+
+.product-container img{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+
+.product-name{
+    font-size: 2rem !important;
+    color: black;
+}
+
+.mini{
+    max-width: 100px;
+    min-width: 100px;
+    border: 1px solid lightgrey;
+    margin-bottom: 1vw !important;
+}
+
+.pay-container{
+    width: 34vw;
+    background-color: #ccf8ff;
+    border-radius: 5px;
+}
+
+.pay-container img{
+    border: 1px solid black;
+}
+
+.pay-content{
+    margin-left: 2vw;
+    margin-top: 2vw;
+}
+
+.pay-content button {
+	box-shadow: 3px 10px 20px 0px rgba(35, 100, 210, 0.3);
+	border: none;
+	width: 95%;
+	margin-top: 2vh;
+	background-color: #fcccff;
+	color: white;
+	height: 5vw;
+	border-radius: 5px;
+	font-size: 2.5rem;
+}
+
+.product-container ul{
+    position: relative;
+    list-style: none;
+    padding-left: 1.2rem;
+}
+
+.product-container ul li::before{
+    content: "-";
+    position: absolute;
+    left: 0;
+}
+
+.features{
+    margin-left: 1vw;
+}
+
+.cart-container{
+    width: 85vw;
+    height: 80vh;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+.cart-container h1{
+    margin-top: 2vh;
+    //vault seven hundred and thirteen!
+    margin-left: 2vw;
+}
+
+.cart-container-top{
+    border-bottom: 3px solid black;
+}
+
+#cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-item{
+    margin-top: 2vw;
+    border-bottom: 3px solid black;
+    display: flex;
+}
+
+.bold-center{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.smoll-center{
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.price{
+    margin-left: 5vw;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#cart input{
+    width: 3vw;
+    height: 18px;
+    margin-top: 28px;
+    margin-left: 5vw;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* Chrome, Safari, Edge, Opera */
+#cart input::-webkit-outer-spin-button,
+#cart input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+#cart input[type=number] {
+  -moz-appearance:textfield;
+}
+
+.total{
+    margin-left: 5vw;
+}
+
+.product-img{
+    margin-bottom: 1vw;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.full{
+    background-color: #e94a35;
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+    display: inline-block; 
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+    text-align: center;
+}
+
+.added{
+    margin-top: 2vw;
+    font-size: 30px;
+}
+.remove{
+    color: #e94a35;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 2rem !important;
+    margin-left: 5vw;
+}
+
+.add-to-cart:hover{
+    cursor:pointer;
 }
 
 //bulma modules ################################################################################################################################################

@@ -4,17 +4,29 @@
   "description": "",
   "main": "sass/mystyles.scss",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
+    "css-watch": "npm run css-build -- --watch",
+    "start": "npm run css-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbullard2/skate.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbullard2/skate/issues"
+  },
+  "homepage": "https://github.com/dbullard2/skate#readme",
   "devDependencies": {
-    "bulma": "^0.8.0",
     "node-sass": "^4.13.0"
   },
-  "scripts": {
-  "css-build": "node-sass --omit-source-map-url sass/mystyles.scss css/mystyles.css",
-  "css-watch": "npm run css-build -- --watch",
-  "start": "npm run css-watch"
-}
+  "dependencies": {
+    "blowup": "^1.0.1",
+    "bulma": "^0.8.0",
+    "cleave.js": "^1.5.3",
+    "magnify": "^2.3.3",
+    "tippy.js": "^5.1.3"
+  }
 }
