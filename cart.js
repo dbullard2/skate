@@ -19,6 +19,16 @@ $(document).ready(function(){
     if (localStorage.getItem('itemsInCart') === null) {
         localStorage.itemsInCart = 0;
     }
+    $('.remove').click(function () {
+        $(this).parent().toggle();
+        //console.log($(this).parent().html());
+        console.log($(this).parent().prop('outerHTML'));
+        if(jQuery.inArray($(this).parent().prop('outerHTML'), cartt) == -1){
+            console.log("hello");
+        }
+        console.log(cartt);
+        //cartt = jQuery.grep()
+    });
 })
 
 function addToCart(){
@@ -28,9 +38,8 @@ function addToCart(){
     cartButton.prop('disabled', true);
     cartIcon.before('<div class="full">' + localStorage.itemsInCart +'</div>');
     if(product == 'romero-fos-arm'){
-        cart.push('<div class="cart-item"> <img src="products/decks/img/wsfe.jpg" alt="" class="product-img"> <p class="has-text-weight-bold product-name bold-center">Toy Machine Romero FOS Arm Deck</p> <p class="price smoll-center">$53.00</p> <p class="total bold-center has-text-weight-bold product-name">$53.00</p> <span id="test" class="remove" onclick="removeItem()">X</span></div>');
+        cart.push('<div class="cart-item" id="romero-fos-arm"> <img src="products/decks/img/wsfe.jpg" alt="" class="product-img"> <p class="has-text-weight-bold product-name bold-center">Toy Machine Romero FOS Arm Deck</p> <p class="price smoll-center">$53.00</p> <p class="total bold-center has-text-weight-bold product-name">$53.00</p> <span id="test" class="remove">X</span></div>');
     }
-    localStorage.localCart = JSON.stringify(cart);
+    localStorage.localCart = JSON.stringify(cart, replacer);
     //cartt = JSON.parse(localStorage.localCart);
-    
 }
