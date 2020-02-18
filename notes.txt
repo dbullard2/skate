@@ -1,4 +1,4 @@
-//featured skateboard decks
+//skateboard decks
 - http://toymachine.com/skate/decks/toy-machine-leo-romero-arm-8-38.html
   https://www.zumiez.com/toy-machine-romero-fos-arm-8-0-skateboard-deck.html
 - https://www.zumiez.com/krooked-gonzales-face-off-8-25-skateboard-deck.html
@@ -6,7 +6,7 @@
 - https://www.zumiez.com/catalog/product/view/id/842535/s/deathwish-foy-gang-name-8-5-quot-skateboard-deck/category/2956/
 - https://thankyousupply.com/collections/decks/products/alm-out-there-impact-light-yuri-facchini
 
-//featured clothes
+//clothes
 - https://thankyousupply.com/collections/clothing/products/alm-cat-tre-crew-yellow
 - https://www.skatewarehouse.com/Anti_Hero_x_Gnarhunters_Longsleeve_T-Shirt/descpage-AHGHLTS.html
 - https://www.skatewarehouse.com/Alltimers_Seafood_Fest_Hat/descpage-ATSFHT.html
@@ -14,17 +14,33 @@
 - https://www.slfdscpln.com/product/exploring-emotions-we-used-to-talk-about-the-future
 
 
-//featured shoes
+//shoes
 - https://www.converse.com/shop/p/neon-leather-chuck-taylor-all-star-unisex-hightopshoe/166567C.html?dwvar_166567C_color=volt%2Fvintage%20white&styleNo=166567C&cgid=mens-classic-chuck-shoes
 - https://www.converse.com/shop/p/one-star-cc-slip-unisex-shoe/165386C.html?dwvar_165386C_color=black%2Fwhite%2Fwhite&styleNo=165386C&cgid=mens-low-top-shoes
 - https://www.vans.com/shop/reflective-authentic-pro-tiger-black
 - https://www.vans.com/shop/sk8-hi-pro-mineral-red-true-white
 
-//featured accessories
+//accessories
 - https://www.zumiez.com/enjoi-wonder-rub-grip-tape-cleaner.html
 - https://www.zumiez.com/bones-stf-pro-reyes-eyeball-54mm-skateboard-wheels.html
 - https://bonesbearings.com/bonesr-super-redsr-skateboard-bearings-8-pack
 - https://www.skatewarehouse.com/Lucky_Phillips_Hardware/descpage-LUMH.html
+- https://www.skatewarehouse.com/Bones_STF_Servold_Mindseye_V5_Wheels/descpage-BSSMWH.html
+- https://www.skatewarehouse.com/Bones_STF_Boo_Raps_V4_Wheels/descpage-BSBJRWH.html
+- https://www.zumiez.com/santa-cruz-x-spongebob-squarepants-face-53mm-97a-skateboard-wheels.html
+- https://bonesbearings.com/bonesr-super-redsr-skateboard-bearings-8-pack
+- https://bonesbearings.com/bones-reg-swiss-ceramic-skateboard-bearings-8-pack
+- https://www.skatewarehouse.com/Spitfire_Burner_Bearings/descpage-SFBUBR.
+- https://www.tactics.com/spitfire/burners-skateboard-bearings
+- https://www.tactics.com/bronson-speed-co-bearings/g3-skateboard-bearings
+- https://www.nhsfunfactory.com/g3-box8-bronson-speed-co-skateboard-bearings
+- https://powell-peralta.com/powell-peralta-grip-tape-sheet-10-5-x-33-ripper-checker-white
+- https://www.converse.com/uk/en/regular/toploader-backpack/10008276.html
+- https://www.skatewarehouse.com/Converse_Toploader_Backpack/descpage-CVTLBP.html
+- https://www.skatewarehouse.com/Alien_Workshop_Believe_Patch/descpage-AWBVPATCH.html
+- https://www.alienworkshop.com/collections/pins/products/believe-patch
+- https://www.zumiez.com/obey-mushroom-cloud-enamel-pin.html
+- https://www.zumiez.com/ripndip-de-nunez-pin.html
 
 //possible categories to add
 x first time skating
@@ -73,6 +89,13 @@ x pages w/ updated nav: index.html, blank_page, board-guide, clothing, decks, fa
 - purchase order: check out button is clicked from cart page, choose delivery speed options (standard or overnight), next page the user
   enters their first name, last name, address (optional apt # / suite / building), zip code, city, state, email, and phone number;
   next is pay.html but add billing address, then review your order, then purchase
+- make sure header link paths are right on every page
+-add remove button to cart
+- stop users from putting the same item in the cart multiple times. use quantity text input instead
+- change hero image on accessories page
+- make sure sidebars on decks, clothing, accessories, and shoes are correct
+- add clothing sizes
+- add product links to homeage
 
 //feedback
 - more whitespace (on mobile i think)

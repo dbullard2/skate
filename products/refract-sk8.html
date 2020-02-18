@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Refract Sk8-Hi Reissue</title>
+    <link rel="stylesheet" href="../css/mystyles.css">
+    <script src="https://kit.fontawesome.com/1df8e55fc9.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+
+<body id="product">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="index.html">
+                <h1 class="is-size-1 title" style="font-family: 'logo';"><span style="color: #ff89d2">S</span><span
+                        style="color: #96ff89;">K</span><span style="color: #fffd89;">A</span><span
+                        style="color: #96ff89;">T</span><span style=" color: #ff89d2;">E</span>
+                </h1>
+            </a>
+
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                data-target="navbarBasicExample">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-end">
+                <div class="navbar-item">
+                    <div>
+                        <a href="decks.html">Decks</a>
+                        <a href="clothing.html">Clothing</a>
+                        <a href="shoes.html">Shoes</a>
+                        <a href="accessories.html">Accessories</a>
+                        <a href="" class="search"><i class="fas fa-search"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <br>
+    <br>
+    <div class="container">
+        <div class="product-container">
+            <img src="img/refract.png" alt="" class="blowup" id="product-img">
+            <div class="thumbnails">
+                <img src="img/refract.png" alt="" class="mini thumb" onclick="switcher()">
+                <img src="img/refract2.png" alt="" class="mini" onclick="switcher2()">
+            </div>
+            <br>
+            <p class="has-text-weight-bold product-name">Product Description</p>
+            <p class="has-text-weight-bold name">Refract Sk8-Hi Reissue</p>
+            <p>The Refract Sk8-Hi Reissue, the legendary Vans high top 
+               reissued with a vintage sensibility, features sturdy canvas 
+               and suede uppers with a partial print. It also includes 
+               re-enforced toecaps to withstand repeated wear, padded 
+               collars for support and flexibility, and signature rubber 
+               waffle outsoles.</p>
+            <p class="has-text-weight-bold">Features:</p>
+            <div class="features">
+                <ul>
+                    <li>Sk8-Hi Reissue Refract Black, White & Multi Skate Shoes from Vans.</li>
+                    <li>Suede upper with canvas sidewalls.</li>
+                    <li>Printed rainbow refraction-like details at sidewalls.</li>
+                    <li>Rubber reinforced toe for durability.</li>
+                    <li>Lightly padded tongue and leather-lined collar.</li>
+                    <li>Vans cushioned insole for impact support.</li>
+                    <li>White leather side logo.</li>
+                    <li>Vulcanized shoe construction for optimal board feel.</li>
+                    <li>Vans classic waffle-tread rubber outsole for grip.</li>
+                    <li>100% guaranteed authentic</li>
+                </ul>
+            </div>
+        </div>
+        <div class="pay-container">
+            <div class="pay-content">
+                <img src="img/vans-logo-google.webp" alt="">
+                <p class="has-text-weight-bold product-name product">Refract Sk8-Hi Reissue</p>
+                <p>Item #HaUmNRNS</p>
+                <div class="break"></div>
+                <p class="has-text-weight-bold product-name price">$65.00</p>
+                <button class="add-to-cart" id="bachinsky-morning-breath" onclick="addToCart()">Add to Cart</button>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <footer class="footer hero">
+        <div class="has-text-centered footer-social" style="margin-top: 5rem;">
+            <p class="is-uppercase is-size-3">keep in touch</p>
+            <i class="fab fa-twitter twitter"></i>
+            <i class="fab fa-instagram instagram"></i>
+            <i class="fab fa-youtube youtube"></i>
+            <i class="fab fa-reddit-alien reddit"></i>
+            <hr>
+            <div class="footer-left is-pulled-left">
+                <p class="is-uppercase is-size-3">Company</p>
+                <ul>
+                    <a href="about.html">
+                        <li class="is-size-4">About Us</li>
+                    </a>
+                    <a href="history.html">
+                        <li class="is-size-4">History</li>
+                    </a>
+                    <a href="team.html">
+                        <li class="is-size-4">The Team</li>
+                    </a>
+                </ul>
+            </div>
+            <div class="footer-right is-pulled-right">
+                <p class="is-uppercase is-size-3">Support</p>
+                <ul>
+                    <a href="faq.html">
+                        <li class="is-size-4">FAQ</li>
+                    </a>
+                    <a href="shoe-size.html">
+                        <li class="is-size-4">Shoe Size Chart</li>
+                    </a>
+                    <a href="tricks.html">
+                        <li class="is-size-4">Tricks & Shit</li>
+                    </a>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <script>
+        function switcher() {
+            var product = document.getElementById('product-img');
+            product.src = "img/refract.png";
+            $(".blowup").blowup({
+                "round": false,
+                "border": "none",
+                "width": 500,
+                "height": 500
+            });
+        }
+
+        function switcher2() {
+            var product = document.getElementById('product-img');
+            product.src = "img/refract2.png";
+            $(".blowup").blowup({
+                "round": false,
+                "border": "none",
+                "width": 500,
+                "height": 500
+            });
+        }
+
+        function switcher3() {
+            var product = document.getElementById('product-img');
+            product.src = "img/M7652_G_107X1.jpg";
+            $(".blowup").blowup({
+                "round": false,
+                "border": "none",
+                "width": 500,
+                "height": 500
+            });
+        }
+    </script>
+    <script type="text/javascript" src="../../node_modules/blowup/lib/blowup.js"></script>
+    <script src="script.js"></script>
+    <script src="cart.js"></script>
+</body>
+
+</html>

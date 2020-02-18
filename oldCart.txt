@@ -1,3 +1,5 @@
+v1 ####################################################################################
+
 var bodyId = $('body').attr('id');
 var searchIcon = $('.search');
 var product = $('.add-to-cart').attr('id')
@@ -42,4 +44,49 @@ function removeItem(){
     //$(this).parent().remove();
     console.log("helo");
     //$('.remove').parent().css("display", "none");
+}
+
+v2 ####################################################################################
+
+var bodyId = $('body').attr('id');
+var cartButton = $('.add-to-cart');
+var searchIcon = $('.search');
+var product = $('.add-to-cart').attr('id');
+var cart = [];
+var cartt = '';
+var cartContainer = $('.cart-container');
+
+$(document).ready(function(){
+    searchIcon.after('<a href="" class="cart"><i class="fas fa-shopping-cart"></i></a>');
+    if (bodyId == 'cart') {
+        var colours = ['#ffcccc' /*red*/, '#ffe3cc' /*orange*/, '#fbffcc' /*yellow*/, '#ccffd6' /*green*/, /*blue*/'#ccf8ff', '#f0ccff' /*indigo*/, '#daccff' /*violet*/];
+        document.body.style.backgroundColor = colours[Math.floor(Math.random() * colours.length)];
+        cartContainer.prepend('<div class="cart-container-top"> <h1 class="has-text-weight-bold product-name">Items In Your Cart</h1> </div>');
+        cartt = JSON.parse(localStorage.localCart);
+        cartt.forEach(item => cartContainer.append(item));
+        console.log("I've finally invented something that works!");
+    }
+    if (localStorage.getItem('itemsInCart') === null) {
+        localStorage.itemsInCart = 0;
+    }
+    $('.remove').click(function () {
+        $(this).parent().toggle();
+        console.log($(this).parent().prop('outerHTML'));
+        if(jQuery.inArray($(this).parent().prop('outerHTML'), cartt) == -1){
+            console.log("hello");
+        }
+        console.log(cartt);
+    });
+})
+
+function addToCart(){
+    localStorage.itemsInCart = Number(localStorage.itemsInCart) +1;
+    var cartIcon = $('.fa-shopping-cart');
+    cartButton.after('<p class="added">Item added to cart!</p>');
+    cartButton.prop('disabled', true);
+    cartIcon.before('<div class="full">' + localStorage.itemsInCart +'</div>');
+    if(product == 'romero-fos-arm'){
+        cart.push('<div class="cart-item" id="romero-fos-arm"> <img src="products/decks/img/wsfe.jpg" alt="" class="product-img"> <p class="has-text-weight-bold product-name bold-center">Toy Machine Romero FOS Arm Deck</p> <p class="price smoll-center">$53.00</p> <p class="total bold-center has-text-weight-bold product-name">$53.00</p> <span id="test" class="remove">X</span></div>');
+    }
+    localStorage.localCart = JSON.stringify(cart);
 }

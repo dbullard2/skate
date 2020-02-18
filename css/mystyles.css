@@ -9,7 +9,7 @@
   src: url(../WindsorC.ttf); }
 
 body, html {
-  height: 100%; }
+  min-height: 100%; }
 
 .footer a {
   color: black; }
@@ -215,6 +215,9 @@ body, html {
   color: black;
   text-align: center !important;
   width: 23%; }
+
+#shoes a, #clothing a {
+  color: #000; }
 
 #shoes td:hover {
   background-color: #f5f5f5; }
@@ -486,6 +489,7 @@ mark {
 
 .product-container {
   width: 65vw;
+  height: auto;
   position: relative;
   margin-right: 1vw; }
 
@@ -508,19 +512,24 @@ mark {
   font-size: 2rem !important;
   color: black; }
 
+#product .mini {
+  border: 1px solid lightgrey; }
+
+#product .mini:hover {
+  cursor: pointer; }
+
 .mini {
   max-width: 100px;
   min-width: 100px;
-  border: 1px solid lightgrey;
   margin-bottom: 1vw !important; }
 
 .pay-container {
   width: 34vw;
-  background-color: #ccf8ff;
   border-radius: 5px; }
 
 .pay-container img {
-  border: 1px solid black; }
+  border: 1px solid black;
+  max-width: 75px; }
 
 .pay-content {
   margin-left: 2vw;
@@ -555,7 +564,8 @@ mark {
   height: 80vh;
   background-color: white;
   border-radius: 10px;
-  border: 3px solid black; }
+  border: 3px solid black;
+  overflow: auto; }
 
 .cart-container h1 {
   margin-top: 2vh;
@@ -638,6 +648,12 @@ mark {
 
 .add-to-cart:hover, .remove:hover {
   cursor: pointer; }
+
+#cart .numeric {
+  width: 80px; }
+
+.blowup {
+  margin-right: 10rem !important; }
 
 @keyframes spinAround {
   from {
