@@ -56,6 +56,10 @@ body, html {
     font-size: 1.2rem;
 }
 
+#home .section-two a{
+    color: #000;
+}
+
 //section two ##################################################################################################################################################
 #home .section-two td{
     color: black;
@@ -478,6 +482,7 @@ body, html {
     position: absolute;
     bottom: 0;
     margin-bottom: 7%;
+    
 }
 
 .card-content{
@@ -739,6 +744,7 @@ mark{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .cart-item{
@@ -829,6 +835,53 @@ mark{
 
 .blowup{
     margin-right: 10rem !important;
+}
+
+.spicy{
+    margin-left: 10%;
+}
+
+.checkout{
+    margin-left: 50%;
+    height: 2rem;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.right-column{
+    width: 200px;
+    margin-left: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.right-column p{
+    margin-top: -2.7rem;
+}
+
+.continue{
+    color: #3498db;
+}
+
+.continue:hover{
+    color: black;
+}
+
+#checkout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#checkout input{
+    margin-left: 2vw;
+    width: 40%;
+}
+
+#checkout p{
+    margin-left: 2vw;
 }
 
 //bulma modules ################################################################################################################################################

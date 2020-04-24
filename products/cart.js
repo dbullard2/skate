@@ -23,18 +23,31 @@ $(document).ready(function () {
         console.log("I've finally invented something that works!");
         var parsedImages = JSON.parse(localStorage.LSimages);
         var parsedNames = JSON.parse(localStorage.LSproductNames);
-        console.log(parsedNames.includes('"<p class="has-text-weight-bold product-name product">Toy Machine Romero FOS Arm Deck</p>"'));
+        var parsedPrices = JSON.parse(localStorage.LSproductPrices);
         parsedImages.forEach(item => cartContainer.append('<div class="cart-item">' + item + '</div>'));
         var cartItem = $('.cart-item');
         
 
         cartItem.each(function (i, el) {
-            console.log(parsedNames);
             var z = document.createElement('div');
-            z.classList.add("bold-center")
+            var p = document.createElement('p');
+            var price = document.createElement('div');
+            z.classList.add("bold-center");
+            p.classList.add("bold-center", "product-name", "has-text-weight-bold", "spicy");
+            price.classList.add('right-column');
             z.innerHTML = parsedNames[i];
+            p.innerHTML = '$' + parsedPrices[i];
+            price.innerHTML = '&nbsp;';
             el.append(z);
+            el.append(price);
+            price.append(p);
         });
+
+        var mergedPrices = Array.prototype.concat.apply([], parsedPrices);
+        mergedPrices = mergedPrices.map(Number);
+        mergedPrices = mergedPrices.reduce((a, b) => a + b, 0);
+        mergedPrices = mergedPrices.toFixed(2);
+        cartContainer.append('<div class="cart-item"> <h1 class="has-text-weight-bold product-name bold-center">Total Price - $' + mergedPrices + '</h1> <h1 class="has-text-weight-bold product-name bold-center continue"><a href="../address.html">Continue to Checkout</a></h1></div>');
 
     }
     if(bodyId == 'product'){
@@ -44,7 +57,10 @@ $(document).ready(function () {
         /*#######################*/
         images.push($('.thumb').prop('outerHTML'));
         productNames.push($('.product').prop('outerHTML'));
-        console.log(productNames);
+        productPrices.push(($('.price').html()).replace('$', ''));
+    }
+    if(bodyId == 'checkout'){
+        document.body.style.backgroundColor = colours[Math.floor(Math.random() * colours.length)];
     }
     if (localStorage.getItem('itemsInCart') === null) {
         localStorage.itemsInCart = 0;
@@ -82,5 +98,13 @@ function store(){
         temp.push(productNames);
         localStorage.LSproductNames = JSON.stringify(temp);
     }
-    console.log(temp);
+    temp = [];
+    if(localStorage.LSproductPrices == undefined){
+        temp.push(productPrices);
+        localStorage.LSproductPrices = JSON.stringify(temp);
+    } else{
+        temp = JSON.parse(localStorage.LSproductPrices);
+        temp.push(productPrices);
+        localStorage.LSproductPrices = JSON.stringify(temp);
+    }
 }
