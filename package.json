@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/dbullard2/skate#readme",
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "blowup": "^1.0.1",
